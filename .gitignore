@@ -7,10 +7,11 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Anaconda/Miniconda environments
+# Anaconda environments
 env/
 .env/
 
 # VS Code settings
 .vscode/
 
+*.csv
