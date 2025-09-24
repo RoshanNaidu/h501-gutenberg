@@ -4,9 +4,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
 # Anaconda/Miniconda environments
 env/
 .env/
